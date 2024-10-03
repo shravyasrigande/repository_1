@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/shravyasrigande/repository_1/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
