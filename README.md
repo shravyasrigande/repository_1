@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/shravyasrigande/repository_1/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shravyasrigande/repository_1/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
@@ -40,9 +41,11 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
