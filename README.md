@@ -16,6 +16,7 @@
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/shravyasrigande/repository_1/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/shravyasrigande/repository_1/tree/master/2737-row-with-maximum-ones) |
 ## Number Theory
 |  |
 | ------- |
