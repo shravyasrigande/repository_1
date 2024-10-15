@@ -13,6 +13,7 @@
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 ## Database
 |  |
 | ------- |
@@ -63,4 +65,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
+| [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
