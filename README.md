@@ -95,4 +95,5 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shravyasrigande/repository_1/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
