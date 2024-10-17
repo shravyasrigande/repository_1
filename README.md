@@ -14,6 +14,7 @@
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shravyasrigande/repository_1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -30,6 +31,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shravyasrigande/repository_1/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
