@@ -30,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/shravyasrigande/repository_1/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shravyasrigande/repository_1/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/shravyasrigande/repository_1/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
+| [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
 ## Matrix
