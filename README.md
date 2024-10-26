@@ -64,6 +64,7 @@
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
 ## Matrix
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
