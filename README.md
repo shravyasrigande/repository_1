@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrigande/repository_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/shravyasrigande/repository_1/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
@@ -92,6 +93,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Interactive
@@ -117,4 +119,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrigande/repository_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
