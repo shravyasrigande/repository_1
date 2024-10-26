@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrigande/repository_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/shravyasrigande/repository_1/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrigande/repository_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
