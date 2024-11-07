@@ -109,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shravyasrigande/repository_1/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
@@ -116,6 +117,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
