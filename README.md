@@ -132,6 +132,7 @@
 | [0078-subsets](https://github.com/shravyasrigande/repository_1/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/shravyasrigande/repository_1/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shravyasrigande/repository_1/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
 | ------- |
