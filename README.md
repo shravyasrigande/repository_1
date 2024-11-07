@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shravyasrigande/repository_1/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shravyasrigande/repository_1/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shravyasrigande/repository_1/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/shravyasrigande/repository_1/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
