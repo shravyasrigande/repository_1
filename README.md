@@ -25,6 +25,7 @@
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
+| [1839-decode-xored-array](https://github.com/shravyasrigande/repository_1/tree/master/1839-decode-xored-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/shravyasrigande/repository_1/tree/master/2737-row-with-maximum-ones) |
@@ -135,6 +136,7 @@
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shravyasrigande/repository_1/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shravyasrigande/repository_1/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1839-decode-xored-array](https://github.com/shravyasrigande/repository_1/tree/master/1839-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
