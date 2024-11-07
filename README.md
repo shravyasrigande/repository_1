@@ -69,6 +69,7 @@
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shravyasrigande/repository_1/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
@@ -133,6 +134,7 @@
 | [0191-number-of-1-bits](https://github.com/shravyasrigande/repository_1/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shravyasrigande/repository_1/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shravyasrigande/repository_1/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
