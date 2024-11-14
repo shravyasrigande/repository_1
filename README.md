@@ -23,6 +23,7 @@
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shravyasrigande/repository_1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
+| [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
@@ -120,11 +121,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
