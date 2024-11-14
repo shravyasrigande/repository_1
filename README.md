@@ -114,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shravyasrigande/repository_1/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shravyasrigande/repository_1/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
