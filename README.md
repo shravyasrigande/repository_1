@@ -123,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shravyasrigande/repository_1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shravyasrigande/repository_1/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
@@ -167,4 +168,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shravyasrigande/repository_1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shravyasrigande/repository_1/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shravyasrigande/repository_1/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
