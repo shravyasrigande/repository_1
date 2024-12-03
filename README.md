@@ -154,6 +154,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/shravyasrigande/repository_1/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 ## Divide and Conquer
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shravyasrigande/repository_1/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/shravyasrigande/repository_1/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
