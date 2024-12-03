@@ -91,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrigande/repository_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
@@ -178,6 +179,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrigande/repository_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/shravyasrigande/repository_1/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
