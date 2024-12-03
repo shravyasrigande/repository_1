@@ -91,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -177,5 +178,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/shravyasrigande/repository_1/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
