@@ -27,6 +27,7 @@
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/shravyasrigande/repository_1/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shravyasrigande/repository_1/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/shravyasrigande/repository_1/tree/master/1839-decode-xored-array) |
