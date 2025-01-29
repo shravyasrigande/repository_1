@@ -27,6 +27,7 @@
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/shravyasrigande/repository_1/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/shravyasrigande/repository_1/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shravyasrigande/repository_1/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
+| [1505-create-target-array-in-the-given-order](https://github.com/shravyasrigande/repository_1/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/shravyasrigande/repository_1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shravyasrigande/repository_1/tree/master/2058-concatenation-of-array) |
 | [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
