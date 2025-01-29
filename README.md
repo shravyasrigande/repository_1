@@ -27,6 +27,7 @@
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
 | [1095-two-city-scheduling](https://github.com/shravyasrigande/repository_1/tree/master/1095-two-city-scheduling) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shravyasrigande/repository_1/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/shravyasrigande/repository_1/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/shravyasrigande/repository_1/tree/master/1580-shuffle-the-array) |
@@ -83,6 +84,7 @@
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shravyasrigande/repository_1/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shravyasrigande/repository_1/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shravyasrigande/repository_1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2645-pass-the-pillow](https://github.com/shravyasrigande/repository_1/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
@@ -153,6 +155,7 @@
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/shravyasrigande/repository_1/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/shravyasrigande/repository_1/tree/master/0983-validate-stack-sequences) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shravyasrigande/repository_1/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/shravyasrigande/repository_1/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/shravyasrigande/repository_1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shravyasrigande/repository_1/tree/master/2058-concatenation-of-array) |
