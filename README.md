@@ -35,6 +35,7 @@
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/shravyasrigande/repository_1/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/shravyasrigande/repository_1/tree/master/1839-decode-xored-array) |
+| [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/shravyasrigande/repository_1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shravyasrigande/repository_1/tree/master/2058-concatenation-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
@@ -57,6 +58,7 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/shravyasrigande/repository_1/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shravyasrigande/repository_1/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -216,4 +218,8 @@
 | [0328-odd-even-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
