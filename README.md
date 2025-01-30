@@ -36,6 +36,7 @@
 | [1833-find-the-highest-altitude](https://github.com/shravyasrigande/repository_1/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/shravyasrigande/repository_1/tree/master/1839-decode-xored-array) |
 | [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shravyasrigande/repository_1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/shravyasrigande/repository_1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shravyasrigande/repository_1/tree/master/2058-concatenation-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shravyasrigande/repository_1/tree/master/2714-left-and-right-sum-differences) |
@@ -97,6 +98,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/shravyasrigande/repository_1/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/shravyasrigande/repository_1/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shravyasrigande/repository_1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2722-prime-in-diagonal](https://github.com/shravyasrigande/repository_1/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/shravyasrigande/repository_1/tree/master/2737-row-with-maximum-ones) |
 ## Number Theory
