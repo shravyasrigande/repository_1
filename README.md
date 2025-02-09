@@ -114,6 +114,7 @@
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shravyasrigande/repository_1/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/shravyasrigande/repository_1/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0908-middle-of-the-linked-list) |
@@ -139,6 +140,7 @@
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shravyasrigande/repository_1/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -173,6 +175,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrigande/repository_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shravyasrigande/repository_1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
