@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shravyasrigande/repository_1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/shravyasrigande/repository_1/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/shravyasrigande/repository_1/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
@@ -112,6 +113,7 @@
 | [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shravyasrigande/repository_1/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/shravyasrigande/repository_1/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0908-middle-of-the-linked-list) |
