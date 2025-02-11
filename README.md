@@ -69,11 +69,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/shravyasrigande/repository_1/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/shravyasrigande/repository_1/tree/master/0941-sort-array-by-parity) |
@@ -142,6 +144,7 @@
 | [0020-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shravyasrigande/repository_1/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
