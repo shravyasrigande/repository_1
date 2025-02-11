@@ -21,6 +21,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/shravyasrigande/repository_1/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/shravyasrigande/repository_1/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shravyasrigande/repository_1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shravyasrigande/repository_1/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shravyasrigande/repository_1/tree/master/0861-flipping-an-image) |
@@ -58,6 +59,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shravyasrigande/repository_1/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shravyasrigande/repository_1/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shravyasrigande/repository_1/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
