@@ -70,6 +70,7 @@
 | [0001-two-sum](https://github.com/shravyasrigande/repository_1/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -234,4 +236,9 @@
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
