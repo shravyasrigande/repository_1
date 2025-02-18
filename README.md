@@ -69,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shravyasrigande/repository_1/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/shravyasrigande/repository_1/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -90,6 +91,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/shravyasrigande/repository_1/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shravyasrigande/repository_1/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/shravyasrigande/repository_1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shravyasrigande/repository_1/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/shravyasrigande/repository_1/tree/master/0367-valid-perfect-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shravyasrigande/repository_1/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -117,6 +119,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrigande/repository_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shravyasrigande/repository_1/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/shravyasrigande/repository_1/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shravyasrigande/repository_1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shravyasrigande/repository_1/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
