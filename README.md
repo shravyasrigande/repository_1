@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/shravyasrigande/repository_1/tree/master/0176-second-highest-salary) |
+| [1827-invalid-tweets](https://github.com/shravyasrigande/repository_1/tree/master/1827-invalid-tweets) |
 ## Math
 |  |
 | ------- |
