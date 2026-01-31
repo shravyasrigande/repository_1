@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrigande/repository_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shravyasrigande/repository_1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/shravyasrigande/repository_1/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shravyasrigande/repository_1/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/shravyasrigande/repository_1/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shravyasrigande/repository_1/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shravyasrigande/repository_1/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/shravyasrigande/repository_1/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravyasrigande/repository_1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shravyasrigande/repository_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shravyasrigande/repository_1/tree/master/0414-third-maximum-number) |
@@ -219,6 +222,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shravyasrigande/repository_1/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -249,6 +253,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [1983-maximum-population-year](https://github.com/shravyasrigande/repository_1/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
