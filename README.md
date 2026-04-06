@@ -168,6 +168,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shravyasrigande/repository_1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3110-score-of-a-string](https://github.com/shravyasrigande/repository_1/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
