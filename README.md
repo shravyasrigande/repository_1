@@ -74,6 +74,7 @@
 | [0169-majority-element](https://github.com/shravyasrigande/repository_1/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shravyasrigande/repository_1/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/shravyasrigande/repository_1/tree/master/0771-jewels-and-stones) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shravyasrigande/repository_1/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
@@ -164,6 +165,7 @@
 | [0242-valid-anagram](https://github.com/shravyasrigande/repository_1/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shravyasrigande/repository_1/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shravyasrigande/repository_1/tree/master/0394-decode-string) |
+| [0771-jewels-and-stones](https://github.com/shravyasrigande/repository_1/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/shravyasrigande/repository_1/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shravyasrigande/repository_1/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
